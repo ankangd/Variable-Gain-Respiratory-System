@@ -28,3 +28,6 @@ For details, please read the original paper [1].
 The paper we followed in this project can be found [here (IEEE Link)](https://ieeexplore.ieee.org/document/8488683).
 
 [1] B. Hunnekens, S. Kamps and N. Van De Wouw, "Variable-Gain Control for Respiratory Systems," in IEEE Transactions on Control Systems Technology, vol. 28, no. 1, pp. 163-171,    Jan. 2020, doi: 10.1109/TCST.2018.2871002.
+
+## License
+This work is distributed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License
